@@ -13,7 +13,6 @@
 </blockquote>
 
 <div align="center"> 
-<a href="https://instagram.com/samuellopes_dev?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23333333?style=for-the-badge&logo=instagram&logoColor=white"></a>
 <a href = "mailto:sl263920@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/samuel-ara%C3%BAjo-733a54241" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 
@@ -25,7 +24,7 @@
 
 ---
 
-Ola! Eu sou o Samuel, conhecido também como [*@samuellopes_dev*](https://instagram.com/samuellopes_dev?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D) :wave:👨🏻‍💻
+Ola! Eu sou o Samuel, conhecido também como [*@samuellopes_dev*](https://github.com/lopppes) :wave:👨🏻‍💻
 
 Sou um desenvolvedor frontend focado em JavaScript. E estou comprometido com meu crescimento no mundo digital. Busco constantemente aprender e enfrentar desafios para evoluir. Cada linha de código representa uma chance de aprimorar minhas habilidades e contribuir para o desenvolvimento. Estou pronto para abraçar oportunidades e alcançar meu potencial máximo nessa área emocionante.
 
